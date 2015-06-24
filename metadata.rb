@@ -4,7 +4,7 @@ maintainer_email 'YOUR_EMAIL'
 license          'All rights reserved'
 description      'Installs/Configures mo_logserver'
 long_description 'Installs/Configures mo_logserver'
-version          '1.0.0'
+version          '1.1.0'
 
 depends 'apt',        '~> 2.7.0'
 depends 'rsyslog',    '~> 2.0.0'
