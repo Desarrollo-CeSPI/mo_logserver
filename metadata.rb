@@ -1,0 +1,11 @@
+name             'mo_logserver'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures mo_logserver'
+long_description 'Installs/Configures mo_logserver'
+version          '0.1.0'
+
+depends 'apt',        '~> 2.7.0'
+depends 'rsyslog',    '~> 2.0.0'
+depends 'logrotate',  '~> 1.7.0'
